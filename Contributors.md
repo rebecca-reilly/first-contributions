@@ -1,7 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-- Nikhil Tamboli @DevSoc 
+- Nikhil Tamboli @DevSoc
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [Pratik Ghosh]
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
@@ -19,19 +19,20 @@ Reetish Rath
 - [Sanskar Mundhra@DevsocPI](https://github.com/SunMoon97)
 - [Noopur Sharma@Devsoc]
 - [Shrey Gupta@DevsocPI](https://github.com/gupta-shrey)
+rr
 - Meet Dedhia@DevsocPI
 - aditya joshi@DevSocPI
 - Ezad Haziq Bin Zamily
 
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
-- 
+-
 Yash Rustogi
 - [Aryan Bansal @devsocPI]
 - Moksh@DEVSOCPI
 - [Ayush Raj @DevsocPI]. (https://github.com/Aayuraju)
 - [Jatin Gahlot @DevSocPI]
-  [Mustafa-Alwalss]. 
+  [Mustafa-Alwalss].
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
 - aumkar@DevsocPI
